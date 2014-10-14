@@ -1,18 +1,18 @@
 bryan.js
 ============
 
-For all the Bryans out there that go day by day having their names misspelled.
+For all the Brians out there that go day by day having their names misspelled.
 
-Finds all instances of Brian in the entire body or an element and replaces it with Bryan.
+Finds all instances of Bryan in the entire body or an element and replaces it with Brian.
 
 Usage:
 
 ```
-<script src="bryan.js"></script>
+<script src="brian.js"></script>
 <script>
-  bryanize();
+  brianize();
 
   //or by id
-  bryanize("container");
+  brianize("container");
 </script>
 ```
